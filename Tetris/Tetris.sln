@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tetris", "Tetris\Tetris.vcxproj", "{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tetris", "..\..\..\Users\kbc12306119\Downloads\DxLib_GamePractice-main\DxLib_GamePractice-main\GameProjest\Tetorisu\Tetorisu.vcxproj", "{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Debug|x64.ActiveCfg = Debug|x64
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Debug|x64.Build.0 = Debug|x64
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Debug|x86.ActiveCfg = Debug|Win32
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Debug|x86.Build.0 = Debug|Win32
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Release|x64.ActiveCfg = Release|x64
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Release|x64.Build.0 = Release|x64
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Release|x86.ActiveCfg = Release|Win32
-		{6828EED5-72AE-448D-88D0-0BC26C7D5EDC}.Release|x86.Build.0 = Release|Win32
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Debug|x64.ActiveCfg = Debug|x64
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Debug|x64.Build.0 = Debug|x64
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Debug|x86.Build.0 = Debug|Win32
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Release|x64.ActiveCfg = Release|x64
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Release|x64.Build.0 = Release|x64
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Release|x86.ActiveCfg = Release|Win32
+		{41AE57C3-C4FF-4F75-BEDB-68662AF29C3D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

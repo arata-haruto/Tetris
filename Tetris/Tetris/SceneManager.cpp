@@ -64,8 +64,7 @@ void SceneManager_Initialize(GAME_MODE mode)
 * 引数：なし
 * 戻り値：なし
 *****************************/
-void
-SceneManager_Update(void)
+void SceneManager_Update(void)
 {
 	//前フレームとゲームモードが違っていたらシーンを切り替える
 	if (game_mode != next_mode)
@@ -80,6 +79,9 @@ SceneManager_Update(void)
 		break;
 	case E_GAMEMAIN:
 		GameMainScene_Update();
+		break;
+	case E_RANKING:
+		RankingScene_Update();
 		break;
 	case E_END:
 	default:
